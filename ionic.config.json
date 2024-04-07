@@ -1,0 +1,7 @@
+{
+  "name": "primeiraEntrega",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
