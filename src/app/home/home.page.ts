@@ -8,5 +8,6 @@ import { Component } from '@angular/core';
 export class HomePage {
 
   constructor() {}
+  public grupo = ["Davi Anderson de Oliveira Menezes Junior", "Filipe Diego da Silva Luiz", "Jean Gomes da Silva"]
 
 }
